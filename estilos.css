@@ -1,5 +1,10 @@
 body {
-  background-image:url(https://cdn.pixabay.com/photo/2016/12/01/18/17/mobile-phone-1875813_960_720.jpg);
+  body {
+  background-image: fondo.jpg;
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  
 }
 
 .titulo {
