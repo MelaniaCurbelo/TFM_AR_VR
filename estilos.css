@@ -30,10 +30,6 @@ img {
 a:link {
   color: red;
   font-size: 25px;
-  padding: 50px 50px;
-  text-align: left;
-  display: inline-block;
-  border-radius: 40px;
 }
 
 a:visited {
