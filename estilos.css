@@ -34,9 +34,19 @@ a:link {
   font-size: 25px;
 }
 
+a:visited {
+  color: red;
+  font-size: 25px;
+}
+
 .estructura {
   color: black;
   font-weight: bold;
   font-size: 40px;
   font-family: Times, serif;
+}
+
+.subtitulo {
+  font-weight: normal;
+  font-size: 20px;
 }
