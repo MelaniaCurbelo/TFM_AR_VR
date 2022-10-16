@@ -1,0 +1,52 @@
+body {
+  background-image:url(https://cdn.pixabay.com/photo/2016/12/01/18/17/mobile-phone-1875813_960_720.jpg);
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  background-size: 60%;
+ 
+}
+
+.titulo {
+  background-color:#A6E4D2;
+  color:red;
+  padding: 30px;
+  font-size: 40px;
+  text-align:center;
+  border-radius: 70%;
+  font-family: Times, serif;
+  border-style: double;
+  border-color: black;
+  border-width: 10px;
+}
+
+
+
+img {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 5px;
+  width: 20%;
+}
+
+a:link {
+  color: red;
+  font-size: 25px;
+}
+
+a:visited {
+  color: red;
+  font-size: 25px;
+}
+
+.estructura {
+  color: black;
+  font-weight: bold;
+  font-size: 40px;
+  font-family: Times, serif;
+}
+
+.subtitulo {
+  font-weight: normal;
+  font-size: 30px;
+}
